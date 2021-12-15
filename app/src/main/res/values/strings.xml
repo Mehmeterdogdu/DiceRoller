@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="zar0">Zar atınız</string>
+    <string name="zarat">Zarla</string>
+</resources>
